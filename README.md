@@ -10,6 +10,9 @@ Sushikshya is a platform which provides books based on Augumented Reality. Why t
 
 Thank You:
 
+#APK link:
+https://drive.google.com/file/d/11vGZeQWTHN9sW1634p4bdO9wKt1P2YK9/view?usp=sharing
+
 Our team:
 1: Aashika Dhakal - AR developer.
 2: Bishnu Bhandari - Mobile Developer + 3D model developer.
